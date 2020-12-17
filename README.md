@@ -2,6 +2,9 @@
 
 A simple theme for [Hexo].
 
+## Changelog
+- blockquote style changed
+
 ## Install
 
 Execute the following command and modify `theme` in `_config.yml` to `light`.
