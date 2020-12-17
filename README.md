@@ -3,7 +3,9 @@
 A simple theme for [Hexo].
 
 ## Changelog
+
 - blockquote style changed
+- config `baidu_analytics` supported
 
 ## Install
 
