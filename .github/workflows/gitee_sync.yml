@@ -11,7 +11,7 @@ jobs:
         dst: gitee/gallenhu
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
-        clone_style: "ssh"
+        # clone_style: "ssh"
         static_list: ${{ github.event.repository.name }}
         force_update: true
         debug: true
